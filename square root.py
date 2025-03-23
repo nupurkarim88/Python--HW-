@@ -9,3 +9,6 @@ square_root = num ** 0.5
 print("The square root of", num, "is:", square_root)
 
 #Output
+
+#The FOrmula that we used to find the square root of a number=
+square_root = num ** 0.5
