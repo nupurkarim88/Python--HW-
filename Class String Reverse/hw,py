@@ -1,0 +1,14 @@
+#START
+class reverse:
+    def __init__(self, string_value=""):
+        self.s = string_value
+
+    def reverse_string(self):
+        return self.s[::-1]
+
+my_string_reverser = reverse("example")
+
+reversed_word = my_string_reverser.reverse_string()
+
+print(f"The reversed word is: {reversed_word}")
+#END
