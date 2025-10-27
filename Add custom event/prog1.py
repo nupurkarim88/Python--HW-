@@ -1,3 +1,4 @@
+#START
 import pygame
 import random
 
@@ -70,3 +71,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+#END
